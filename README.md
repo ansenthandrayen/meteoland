@@ -1,10 +1,10 @@
-# 🌤️ Météo Land
+# 🌤️ MeteoLand
 
 Application météo moderne avec recherche de villes dans le monde entier, prévisions sur 5 jours, et interface glassmorphism responsive.
 
-🔗 **Démo en ligne** : [meteo-land.vercel.app](https://meteo-land.vercel.app)
+🔗 **Démo en ligne** : [meteoland.vercel.app](https://meteoland.vercel.app)
 
-![Météo Land Screenshot](./screenshot.png)
+![MeteoLand Screenshot](./screenshot.png)
 
 ## ✨ Fonctionnalités
 
@@ -28,8 +28,8 @@ Application météo moderne avec recherche de villes dans le monde entier, prév
 
 ```bash
 # Cloner le repo
-git clone https://github.com/ansenthandrayen/meteo-land.git
-cd meteo-land
+git clone https://github.com/ansenthandrayen/meteoland.git
+cd meteoland
 
 # Installer les dépendances
 npm install
