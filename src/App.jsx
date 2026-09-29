@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 // Import des composants
 import ErrorMessage from "./components/ErrorMessage";
@@ -151,6 +152,7 @@ function App() {
           </div>
         )}
       </div>
+      <Analytics />
     </div>
   );
 }
